@@ -22,7 +22,8 @@ I'm a passionate **Flutter & Mobile Developer** with a strong focus on building 
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozielogy&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gozielogy&theme=radical&hide_border=true)
+### Contribution Graph  
+[![gozielogy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gozielogy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozielogy&layout=compact&theme=radical)
 
 <!-- Replace `YourGitHubUsername` with your actual GitHub username. -->
