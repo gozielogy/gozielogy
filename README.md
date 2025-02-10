@@ -41,10 +41,18 @@ Hello and welcome to my GitHub profile! My name is Gozie Ihejirika and I am a Fl
 
 ---
 
+## **Read my latest articles on Hashnode:**  
+
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://your-hashnode-url](https://hashnode.com/@gozielogy))
+
+
+---
+
 ## 📬 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozielogy/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([YourTwitterURL](https://x.com/gozielogy))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([YourTwitterURL](https://x.com/gozielogy/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YourPortfolioURL)
 
 <!-- (Replace the links with your actual social media profiles and portfolio.) -->
