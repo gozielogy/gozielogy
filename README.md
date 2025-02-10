@@ -1,14 +1,12 @@
-# Hi there! 👋 I'm Gozie.
+# Hi there! I'm Gozie.
 ![Hi there!](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 
-🚀 **Mobile Developer | 🎨 UI Enthusiast | 💡 Problem Solver**  
-
-I'm a passionate **Flutter & Mobile Developer** with a strong focus on building scalable, user-friendly applications. I enjoy working on **innovative projects** and continuously improving my skills in **software engineering** and **UI/UX design**.
+Hello and welcome to my GitHub profile! My name is Gozie Ihejirika and I am a Flutter developer and technical writer. I enjoy working on challenging projects and continuously improving my skills in mobile software engineering and UI development. I document my flutter journey through writing.
 
 ---
 
-## 🚀 Tech Stack:
+## Tech Stack:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -21,7 +19,7 @@ I'm a passionate **Flutter & Mobile Developer** with a strong focus on building 
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozielogy&show_icons=true&theme=react-dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozielogy&show_icons=true&theme=react-dark) -->
 
 ### Contribution Graph  
 [![gozielogy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gozielogy&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -34,7 +32,7 @@ I'm a passionate **Flutter & Mobile Developer** with a strong focus on building 
 
 ---
 
-## 🔥 Featured Projects:
+##  Featured Projects:
 
 - 🌍 **[World Time App](https://github.com/gozielogy/world_time_app)** - 🌍 World Time App helps you check the time in different cities worldwide. Whether you're traveling, working remotely, or staying in touch with friends, you can easily see real-time updates and manage time zones hassle-free. ⏰✨.
 <!-- - - 📱 **[Project Name](GitHub Repo Link)** - Short description. -->
